@@ -23,7 +23,7 @@ population more than  ` 20,000,000 ` is ` red ` <br/>
 * <ins>Name</ins> :  Volcano_Map
 * <ins>Category</ins> :  Python, Html
 * <ins>Project Link</ins> : 
-* [Click Here](https://angadsinghsandhu.github.io/Volcano-Map/)
+[Click Here](https://angadsinghsandhu.github.io/Volcano-Map/)
 
 ---
 
