@@ -6,23 +6,23 @@ showing all the volcanos using their coordinates.
 
 These coordinates have ween coloredaccording to their elevation.
 
-elevation less than  ` 1000 ` is ` green `
-elevation less than  ` 3000 ` is ` orange `
-elevation more than  ` 3000 ` is ` red `
+elevation less than  ` 1000 ` is ` green ` <br/>
+elevation less than  ` 3000 ` is ` orange ` <br/>
+elevation more than  ` 3000 ` is ` red ` <br/>
 
 Also, the entire world map has been colored with respect to each
 contry's reletive population, i.e. :
 
-population less than  ` 10,000,000 ` is ` green `
-population less than  ` 20,000,000 ` is ` orange `
-population more than  ` 20,000,000 ` is ` red `
+population less than  ` 10,000,000 ` is ` green ` <br/>
+population less than  ` 20,000,000 ` is ` orange ` <br/>
+population more than  ` 20,000,000 ` is ` red ` <br/>
 
 ---
 
 ## Project Details
 * <ins>Name</ins> :  Volcano_Map
 * <ins>Category</ins> :  Python, Html
-* <ins>Project Link</ins> :  [Click Here]()
+* <ins>Project Link</ins> : [Click Here](https://angadsinghsandhu.github.io/Volcano-Map/)
 
 ---
 
