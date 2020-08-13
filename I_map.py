@@ -47,10 +47,11 @@ for coordinate, ele in zip(lst, height):
 fgp = fl.FeatureGroup(name='Popurlation')
 fh = '''D:/Code/Python/Courses/The Python Mega Course Build 10 Real World Applications/11 Application 2 Creating Webmaps with Python and Folium/world.json'''
 dat = open(fh, encoding="utf-8-sig").read()
+
 fgp.add_child(fl.GeoJson(data=dat,
 style_function = lambda x: {
-'fillColor' : 'green' if x['properties']['POP2005'] < 10000000
-else 'red' if x['properties']['POP2005'] > 20000000
+'fillColor' : 'green' if x['properties']['POP2005'] < 10000000  # lesser than 10,000,000
+else 'red' if x['properties']['POP2005'] > 20000000     # greater than 20,000,000
 else 'orange'
 }))
 
@@ -58,4 +59,4 @@ else 'orange'
 map.add_child(fgv)
 map.add_child(fgp)
 map.add_child(fl.LayerControl())
-map.save('./Map1.html')  #creating and saving maps in html
+map.save('./index.html')  #creating and saving maps in html
