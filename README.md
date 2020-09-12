@@ -15,7 +15,7 @@ contry's reletive population, i.e. :
 
 population less than  ` 10,000,000 ` is ` green ` <br/>
 population less than  ` 20,000,000 ` is ` orange ` <br/>
-population more than  ` 20,000,000 ` is ` red ` <br/>
+population more than  ` 20,000,000 ` is ` red ` <br/><br/>
 
 ---
 
